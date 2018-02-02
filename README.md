@@ -7,7 +7,7 @@
 
 Qualified | Competent | Expert
 :--|:--|:--
-*Autolayout* | |
+*Autolayout* | | +
 Anatomy of constraint, <br/>external and internal changes, autolayout vs frame-based layout |  Stackview, debugging autolayout, anchors, safe area, self-sized views, <br/>Hugging priority/Content compression resistance" | Layout directions (left-to-right/right-to-left), <br/>VFL, <br/>autoresizing masks (springs&struts)
 *Xibs (Nibs), Storyboards* | + |
 xibs and/vs storyboards, custom UI elements in xibs and storyboards, file's owner, loading from xibs and storyboards programmaticaly, segue, pass data via segue, customization ui best practices | IBInspectable, IBDesignable, size classes,  xib vs nib, NIB object lifecycle, unwind segues, git conflicts in xibs and storyboards, xib's xml structure |
@@ -42,22 +42,22 @@ Qualified | Competent | Expert
 :--|:--|:--
 *URLSession* | + |
 NSURLSession basics, encoding/decoding of URL data, lifecycle of a URL Session | Multipart requests, response caching, handling redirects | Background handling, NSURLAuthentication, TLS Chain Validation, streams, sockets, NSURLConnection
-*Response handling* | | +
+*Response handling* | + |
 JSONSerialization, error handling | Codable/Decodable, NSCoding |
-*Building a network layer* | | +
+*Building a network layer* | + |
 Alamofire, mappers | Moya , CFNetwork|
 
 
 ## Deployment
 
 Qualified | Competent | Expert
-:--|:--|:--
+:--|:-- + |:--
 Understanding of code signing, provisioning profiles, app schemes configuration. Launching app on device | Working with iTunes Connect, App Review Guidelines. Build automation, beta-testing tools and deployment platforms. Fastlane | Advanced automation skills (plugins, scripts)
 
 ## iOS essentials
 
 Qualified | Competent | Expert
-:--|:--|:--
+:--|:--|:-- + 
 UIViewController lifecycle, iOS app lifecycle, NotificationCenter |  Working with filesystem, background modes, xcode project structure |  |
 
 
@@ -75,13 +75,13 @@ basic knowledge about multithreading and concurrent programming, deadlocks, race
 ## Marketing
 
 Qualified | Competent | Expert
-:--|:--|:--
+:--|:--|:-- + 
 Push Notifications, URL schemes |  Deep linking, Universal links, App Indexing | Advertisements (AdSupport, AdMob etc) |
 
 ## Testing
 
 Qualified | Competent | Expert
-:--|:--|:--
+:-- + |:--|:--
 Basic knowledge of unit tests |  Complex unit tests, XCTest, Quick/Nimble (Kiwi for Obj-C) | TDD, UI tests, web testing and debugging |
 
 ## Xcode build system
