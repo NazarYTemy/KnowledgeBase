@@ -51,13 +51,13 @@ Alamofire, mappers | Moya , CFNetwork|
 ## Deployment
 
 Qualified | Competent | Expert
-:--|:-- + |:--
+:--|:-- |:--
 Understanding of code signing, provisioning profiles, app schemes configuration. Launching app on device | Working with iTunes Connect, App Review Guidelines. Build automation, beta-testing tools and deployment platforms. Fastlane | Advanced automation skills (plugins, scripts)
 
 ## iOS essentials
 
 Qualified | Competent | Expert
-:--|:--|:-- + 
+:--|:--|:-- 
 UIViewController lifecycle, iOS app lifecycle, NotificationCenter |  Working with filesystem, background modes, xcode project structure |  |
 
 
@@ -75,7 +75,7 @@ basic knowledge about multithreading and concurrent programming, deadlocks, race
 ## Marketing
 
 Qualified | Competent | Expert
-:--|:--|:-- + 
+:--|:--|:-- 
 Push Notifications, URL schemes |  Deep linking, Universal links, App Indexing | Advertisements (AdSupport, AdMob etc) |
 
 ## Testing
@@ -104,25 +104,25 @@ Basic knowledge of measuring app performance with Xcode instruments. Object Grap
 
 ## Architecture Patterns
 
-Qualified | Competent | Expert
+Qualified | Competent | Expert +
 :--|:--|:--
 Delegate, MVC, observer, chain of responsibility, Singleton. | MVP, MVVM, VIPER, VIP, Router. State, Strategy, Visitor. Abstract Factory, Factory Method, Builder. Adapter, Decorator, Facade. | Flux, Redux. Mediator, Memento, Command, Prototype, Proxy |
 
 ## Functional/Reactive programming
 
-Qualified | Competent | Expert
+Qualified + | Competent | Expert
 :--|:--|:--
 Basic knowledge. Recursion | RxSwift/ReactiveCocoa/ReactiveSwift/ReactiveKit, higher order functions. | Futures&Promises. Pure functions. Complete understanding of reactive approach. Functors, Applicatives and Monads. |
 
 ## Hardware & Media
 
-Qualified | Competent | Expert
+Qualified | Competent | Expert +
 :--|:--|:--
 Basic AVFoundation, CoreBluetooth, AVKit | Core Audio. Advanced AVFoundation, CoreBluetooth, AVKit. WebKit. Core Telephony, Core Media | Core Motion, IOKit, Compression |
 
 ## Other
 
-Qualified | Competent | Expert
+Qualified | Competent | Expert +
 :--|:--|:--
 Basic MapKit & CoreLocation. Basic socials integration. Sharing | AddressBook, AddressBookUI, Messages, MessagesUI, Advanced MapKit & CoreLocation. Advanced socials integration. | In-app purchases |
 
