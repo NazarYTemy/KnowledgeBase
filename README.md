@@ -18,11 +18,11 @@ Localizations<br/>[HIG](https://developer.apple.com/ios/human-interface-guidelin
 
 ## Data persistence
 
-Qualified | Competent | Expert
+Qualified | Competent | Expert +
 :--|:--|:--
-*Core Data* | + |
+*Core Data* | |
 Core Data Stack & Architecture, Relationships, Data Types, fetching | Pefrormance, concurrency, multithreading, multiple contexts, changes and updates tracking | Migrations, nestedcontexts, profiling, persistence under the hood (SQLite, XML, Binary, In-memory). iCloud synchronization,Security
-*Other approaches* | + |
+*Other approaches* | |
 UserDefaults, KeyedArchiver | Realm, Keychain |
 
 
