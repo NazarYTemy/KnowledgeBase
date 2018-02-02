@@ -18,11 +18,11 @@ Localizations<br/>[HIG](https://developer.apple.com/ios/human-interface-guidelin
 
 ## Data persistence
 
-Qualified | Competent | Expert +
+Qualified | Competent + | Expert
 :--|:--|:--
 *Core Data* | |
 Core Data Stack & Architecture, Relationships, Data Types, fetching | Pefrormance, concurrency, multithreading, multiple contexts, changes and updates tracking | Migrations, nestedcontexts, profiling, persistence under the hood (SQLite, XML, Binary, In-memory). iCloud synchronization,Security
-*Other approaches* | |
+*Other approaches* | + |
 UserDefaults, KeyedArchiver | Realm, Keychain |
 
 
@@ -30,9 +30,9 @@ UserDefaults, KeyedArchiver | Realm, Keychain |
 
 Qualified | Competent | Expert
 :--|:--|:--
-*Swift* | |
+*Swift* | + |
 Basic syntax, optionals, control flow, error handling, memory management (ARC), classes, structures, enums, functions, initialization/deinitialization, inheritance | Objective-CInteroperability, POP, generics, type safety, KVO/KVC, value and reference types, subscripts, bitwise operators, overflow operators, operator methods, access control | Swift performance, Swift + LLVM, method dispatch, swizzling, @dynamic, final, playgrounds, Swift Standard Library
-*Objective-C* | |
+*Objective-C* | | +
 Basic syntax, variables and types, collections, initializations | Blocks, categories, Integrating Swift into objc, C/C++ code usage inside Obj-C | Runtime, Class structure (isa), Method swizzling, MRC
 
 
@@ -40,11 +40,11 @@ Basic syntax, variables and types, collections, initializations | Blocks, catego
 
 Qualified | Competent | Expert
 :--|:--|:--
-*URLSession* | |
+*URLSession* | + |
 NSURLSession basics, encoding/decoding of URL data, lifecycle of a URL Session | Multipart requests, response caching, handling redirects | Background handling, NSURLAuthentication, TLS Chain Validation, streams, sockets, NSURLConnection
-*Response handling* | |
+*Response handling* | | +
 JSONSerialization, error handling | Codable/Decodable, NSCoding |
-*Building a network layer* | |
+*Building a network layer* | | +
 Alamofire, mappers | Moya , CFNetwork|
 
 
